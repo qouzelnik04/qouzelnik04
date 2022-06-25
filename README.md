@@ -11,7 +11,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![instagram](./img/Instagram.jfif)](https://www.instagram.com/qouzelnik04/?theme=dark) 
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/qouzelnik04/?theme=dark) 
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/qouzelnik04/)
 
 
