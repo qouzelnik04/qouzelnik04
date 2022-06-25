@@ -17,12 +17,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="./img/C.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="./img/C.png" style="padding-right:10px;" />
 <img align="left" alt="VS" width="26px" src="./img/VS.svg" style="padding-right:10px;" />
 <img align="left" alt="STM32" width="26px" src="./img/stm32.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="./img/arduino.png" style="padding-right:10px;" />
-<img align="left" alt="fusion" width="26px" src="./img/fusion.svg" style="padding-right:10px;" />
-<img align="left" alt="easyeda" width="26px" src="./img/easyeda.svg" style="padding-right:10px;" />
+<img align="left" alt="fusion" width="26px" src="./img/Fusion.jpg" style="padding-right:10px;" />
+<img align="left" alt="easyeda" width="26px" src="./img/Easyeda.png" style="padding-right:10px;" />
 
 
 
