@@ -12,6 +12,7 @@
 
 &nbsp;&nbsp;
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/qouzelnik04/?theme=dark)
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 
 ### Languages and Tools:
 
