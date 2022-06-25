@@ -38,4 +38,8 @@
 
 ---
 
+
+
 [instagram]: https://www.instagram.com/qouzelnik04/?theme=dark
+
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
