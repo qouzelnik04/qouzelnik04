@@ -2,10 +2,10 @@
 
 ## I'm a Student
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying high school 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MCU
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love music and riding an e-scooter
 
 
 ### Connect with me:
