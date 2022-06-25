@@ -11,13 +11,15 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/qouzelnik04/?theme=dark) [![instagram](./img/instagram-light.svg)](https://www.instagram.com/qouzelnik04/)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/qouzelnik04/?theme=dark) 
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/qouzelnik04/)
 
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="STM32" width="26px" src="./img/stm32.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="./img/C.png" style="padding-right:10px;" />
 
 <br />
 <br />
