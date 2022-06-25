@@ -14,7 +14,6 @@
 [![instagram](./img/instagram-dark.svg)][instagram]
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/qouzelnik04/)
 
-
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="./img/C.png" style="padding-right:10px;" />
