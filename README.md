@@ -35,8 +35,3 @@
 
 <br />
 <br />
-
-
-
-[instagram]: https://www.instagram.com/qouzelnik04/?theme=dark
-
