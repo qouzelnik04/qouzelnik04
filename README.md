@@ -11,7 +11,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-<img align="left" alt="easyeda" width="26px" src="./img/Instagram.jfif" style="padding-right:10px;" /> (https://www.instagram.com/qouzelnik04/?theme=dark) />
+[![instagram](./img/Instagram.jfif)](https://www.instagram.com/qouzelnik04/?theme=dark) 
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/qouzelnik04/)
+
 
 ### Languages and Tools:
 
