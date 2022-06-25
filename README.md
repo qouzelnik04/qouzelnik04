@@ -11,7 +11,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![instagram](./img/Instagram.jfif)](https://www.instagram.com/qouzelnik04/?theme=dark) 
+<img align="left" alt="easyeda" width="26px" src="./img/Instagram.jfif" style="padding-right:10px;" /> (https://www.instagram.com/qouzelnik04/?theme=dark) />
 
 ### Languages and Tools:
 
