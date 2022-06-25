@@ -3,7 +3,7 @@
 ## I'm a Student
 
 - 🌱 I’m currently studying high school 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other creators
 - 🥅 2022 Goals: Learn more about MCU
 - ⚡ Fun fact: I love music and riding an e-scooter
 
